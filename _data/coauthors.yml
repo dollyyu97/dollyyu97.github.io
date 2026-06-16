@@ -1,34 +1,35 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"vallee":
+  - firstname: ["Boris", "B."]
+    url: https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1015798
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"murillo":
+  - firstname: ["Jose", "J."]
+    url: https://www.primero.ai
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"li":
+  - firstname: ["Wei", "W."]
+    url: https://www.uibe.edu.cn
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"liu":
+  - firstname: ["Mingmei", "M."]
+    url: https://www.jnu.edu.cn
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"zhai":
+  - firstname: ["Daojing", "D."]
+    url: https://som.yale.edu
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"green":
+  - firstname: ["Daniel", "D."]
+    url: https://www.hbs.edu/faculty/Pages/profile.aspx?facId=868938
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"goldsmith-pinkham":
+  - firstname: ["Paul", "P."]
+    url: https://paulgp.github.io/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"choi":
+  - firstname: ["James", "James J.", "J.", "J. J."]
+    url: https://som.yale.edu/faculty-research/faculty-directory/james-j-choi
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"metrick":
+  - firstname: ["Andrew", "A."]
+    url: https://som.yale.edu/faculty-research/faculty-directory/andrew-metrick
