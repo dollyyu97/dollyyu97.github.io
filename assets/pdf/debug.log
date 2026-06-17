@@ -1,0 +1,4 @@
+[50448:33824:0616/202456.221:WARNING:t_skinfilemap.cpp(63)] SGRenderLog:CheckUpdate newMem.OpenMem Suc, szNewMem:Local\sgime_skin.v12.filemap.sogouime
+[50448:33824:0616/202456.221:WARNING:t_skinfilemap.cpp(65)] SGRenderLog:CheckUpdate finish: old version:1
+[50448:33824:0616/202456.221:WARNING:t_skinfilemap.cpp(67)] SGRenderLog:CheckUpdate finish: new version:12
+[50448:47232:0616/202456.319:WARNING:n_flashIPCUtil.cpp(124)] n_flashIPCUtil::IPCNSync t_flashStubImpl::CreateControl
