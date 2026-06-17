@@ -2,14 +2,16 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Teaching assistant experience at the Yale School of Management.
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 2
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+I have served as a teaching assistant for the following courses at the [Yale School of Management](https://som.yale.edu).
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
-
-{% include courses.liquid %}
+| Course | Program | Term(s) | Instructor |
+| :--- | :--- | :--- | :--- |
+| Household Finance | PhD | Spring 2024 | James Choi |
+| Personal Finance | MBA | Spring 2023, 2025, 2026 | James Choi |
+| Fixed Income Securities I | MBA | Fall 2024, 2025, 2026 | Saman Majd |
+| Capital Markets | MBA | Fall 2023 | Gary Gorton |

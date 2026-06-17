@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # 留空，这样会自动用你的全名
+title: blank # 'blank' 是 al-folio 约定：自动用 first/middle/last name 作为站名
 first_name: Dolly 
 middle_name: (Yang)
 last_name: Yu
