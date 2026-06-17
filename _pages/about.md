@@ -1,6 +1,6 @@
 ---
 layout: about
-title: home
+title: Home
 permalink: /
 subtitle: PhD Candidate in Financial Economics · <a href='https://som.yale.edu'>Yale School of Management</a>
 

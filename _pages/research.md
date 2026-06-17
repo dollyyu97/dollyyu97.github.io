@@ -15,7 +15,7 @@ nav_order: 1
     flex-wrap: wrap;
   }
   .research-text { flex: 1 1 340px; min-width: 280px; }
-  .research-fig { flex: 0 0 280px; max-width: 280px; }
+  .research-fig { flex: 0 0 320px; max-width: 320px; }
   .research-fig img,
   .research-fig .fig-placeholder {
     width: 100%;
