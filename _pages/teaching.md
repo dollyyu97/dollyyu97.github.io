@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Teaching assistant experience at the Yale School of Management.
 nav: true
 nav_order: 2

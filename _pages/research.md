@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: research
+title: Research
 nav: true
 nav_order: 1
 ---
@@ -15,7 +15,7 @@ nav_order: 1
     flex-wrap: wrap;
   }
   .research-text { flex: 1 1 340px; min-width: 280px; }
-  .research-fig { flex: 0 0 230px; max-width: 230px; }
+  .research-fig { flex: 0 0 280px; max-width: 280px; }
   .research-fig img,
   .research-fig .fig-placeholder {
     width: 100%;
@@ -33,7 +33,7 @@ nav_order: 1
     background: #f6f6f6;
     padding: 0.5rem;
   }
-  .research-item h3 { margin-bottom: 0.25rem; font-size: 1.1rem; }
+  .research-item h3 { margin-bottom: 0.25rem; font-size: 1.1rem; color: var(--global-theme-color, #1772d0); }
   .research-authors { margin-bottom: 0.35rem; }
   .research-note { font-size: 0.85rem; color: #777; font-style: italic; margin-bottom: 0.4rem; }
   .jmp-badge {
@@ -84,7 +84,7 @@ nav_order: 1
     <div class="research-authors">with Jose Murillo</div>
     <details class="abstract">
       <summary>Abstract</summary>
-      <p>We investigate how the shadow cost of borrowing limits drives high-frequency payment choices, exploiting transaction-level variation in real-time credit utilization, consumption baskets, and credit limit changes. We develop a theoretical framework of precautionary payment choice and exploit quasi-experimental credit limit changes to quantify the welfare and default implications of real-time liquidity management.</p>
+      <p>Why do credit card holders forfeit financial rewards to pay with physical cash on frictionless digital platforms? Using a novel transaction-level dataset linking real-time credit constraints to point-of-sale payment choices on a major Mexican delivery app, we document that proximity to the credit limit is the dominant driver of cash usage. For households with revolving credit card debt, the propensity to pay in cash exhibits a level shift and increases convexly as credit utilization grows. Exploiting quasi-experimental variation from bank-initiated credit limit increases (CLIs), we establish causality: exogenous expansions in credit capacity sharply reduce cash usage, with effects concentrated among highly utilized revolvers. We rationalize these findings through a conceptual framework where the marginal value of preserving future borrowing capacity against uninsurable shocks exceeds the convenience and reward benefits of card payments. Ultimately, our results reframe cash not as a friction, but as an active liquidity management tool for credit-constrained households, offering a novel transaction-level resolution to the co-holding puzzle.</p>
     </details>
   </div>
   <div class="research-fig">
@@ -99,7 +99,7 @@ nav_order: 1
     <div class="research-note">Selected for the 2023 NBER Innovative Data in Household Finance, MFA 2026, and SGF 2026</div>
     <details class="abstract">
       <summary>Abstract</summary>
-      <p>We investigate the underlying economic mechanisms that drive the usage patterns of the Early Wage Access (EWA) product documented using proprietary company data. We estimate the relative value of EWA under standard household preferences and identify the source for potential economic value for employees and employers.</p>
+      <p>We study the adoption and welfare implications of earned wage access (EWA) — an innovative financial product increasingly offered by firms as an employee benefit — using novel administrative and survey data from a Mexican FinTech provider. We document substantial uptake, with usage concentrated near the end of the pay cycle. Adoption is associated with higher retention among lower-rank workers, consistent with welfare gains for financially constrained employees. Survey evidence points to liquidity insurance and consumption smoothing as key drivers of demand. To rationalize these findings, we develop a simple framework incorporating these motives alongside present bias. The model predicts that EWA can generate meaningful welfare gains for workers, particularly those with present-biased preferences, and characterizes the conditions under which adoption is most beneficial.</p>
     </details>
     <div class="research-links">
       <a href="https://ssrn.com/abstract=4067701" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-file-lines"></i> SSRN</a>
@@ -117,7 +117,7 @@ nav_order: 1
     <div class="research-note">Selected for the 2025 EWMES and 2025 Sydney Banking and Financial Stability Conference</div>
     <details class="abstract">
       <summary>Abstract</summary>
-      <p>We exploit a segment of Chinese wealth management products (WMP) to isolate demand-side funding shocks from asset-side considerations, documenting a 60% pass-through of local inflation shocks to yields. We demonstrate that large banks' geographic footprint enables active, high-frequency liability reallocation across regions via internal capital markets, with greater yield response than smaller banks and significant cross-regional hedging behavior.</p>
+      <p>How resilient are banks to local funding shocks? We exploit a segment of Chinese wealth management products (WMPs) funded locally but backed by national assets, allowing us to isolate banks' strategic responses to local funding pressures. Using city-level inflation to characterize investor demand shifts, we find that banks pass through approximately 60% of these shocks to WMP yields. Large, geographically diversified banks respond more actively, by raising yields and contracting issuance in shock-hit markets more sharply than smaller banks. They then hedge by expanding the issuance of lower-yield WMPs in unaffected regions. Our findings reveal that for large banks, geographic diversification is not a tool for passive insulation but a mechanism enabling active, high-frequency liability management through their internal capital markets.</p>
     </details>
   </div>
   <div class="research-fig">
