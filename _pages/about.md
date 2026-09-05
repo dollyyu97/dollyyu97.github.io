@@ -8,10 +8,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>dolly.yu@yale.edu</p>
-    <p>2 Washington Ave</p>
-    <p>New Haven, CT 06519</p>
 
 selected_papers: false # papers are listed on the dedicated Research page
 social: true # includes social icons at the bottom of the page
