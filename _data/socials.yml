@@ -2,4 +2,3 @@
 # displayed in the order defined here
 cv_pdf: /assets/pdf/Yang_Yu_cv_2026.pdf # update this path when you upload your CV PDF
 email: dolly.yu@yale.edu
-rss_icon: false
