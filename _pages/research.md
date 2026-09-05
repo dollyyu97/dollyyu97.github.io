@@ -15,7 +15,7 @@ nav_order: 1
     flex-wrap: wrap;
   }
   .research-text { flex: 1 1 340px; min-width: 280px; }
-  .research-fig { flex: 0 0 320px; max-width: 320px; }
+  .research-fig { flex: 0 0 352px; max-width: 352px; }
   .research-fig img,
   .research-fig .fig-placeholder {
     width: 100%;
@@ -35,7 +35,14 @@ nav_order: 1
   }
   .research-item h3 { margin-bottom: 0.25rem; font-size: 1.1rem; color: var(--global-theme-color, #1772d0); }
   .research-authors { margin-bottom: 0.35rem; }
-  .research-note { font-size: 0.85rem; color: #777; font-style: italic; margin-bottom: 0.4rem; }
+  .research-note { font-size: 0.95rem; color: var(--global-text-color, #333); font-style: italic; margin-bottom: 0.4rem; }
+  .research-award {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--global-theme-color, #00356b);
+    margin-bottom: 0.3rem;
+  }
+  .research-award i { margin-right: 0.35rem; }
   .jmp-badge {
     display: inline-block;
     font-size: 0.7rem;
@@ -84,7 +91,7 @@ nav_order: 1
     <div class="research-authors">with Jose Murillo</div>
     <details class="abstract">
       <summary>Abstract</summary>
-      <p>Why do credit card holders forfeit financial rewards to pay with physical cash on frictionless digital platforms? Using a novel transaction-level dataset linking real-time credit constraints to point-of-sale payment choices on a major Mexican delivery app, we document that proximity to the credit limit is the dominant driver of cash usage. For households with revolving credit card debt, the propensity to pay in cash exhibits a level shift and increases convexly as credit utilization grows. Exploiting quasi-experimental variation from bank-initiated credit limit increases (CLIs), we establish causality: exogenous expansions in credit capacity sharply reduce cash usage, with effects concentrated among highly utilized revolvers. We rationalize these findings through a conceptual framework where the marginal value of preserving future borrowing capacity against uninsurable shocks exceeds the convenience and reward benefits of card payments. Ultimately, our results reframe cash not as a friction, but as an active liquidity management tool for credit-constrained households, offering a novel transaction-level resolution to the co-holding puzzle.</p>
+      <p>We study the effect of a household's credit capacity on its preference for credit or cash payments, and what that choice reveals about the shadow cost of credit. By analyzing 1.5 million consumption records linked to each household's real-time credit position, we find that the same household uses more cash as its credit utilization rises, exhibiting a convex pattern. This convexity is consistent with a precautionary mechanism: the marginal value of available credit rises as capacity shrinks, leading to a convex rise in the cost of credit for all households. Households with existing balances incur additional interest costs, prompting them to choose cash more frequently at every level of utilization. Bank-initiated increases in credit limits, which expand headroom without affecting the balance, causally reduce cash usage.  Consequently, payment choice, when observed alongside the credit position at a transaction level, serves as a direct measure of the shadow cost of drawing down borrowing capacity.</p>
     </details>
   </div>
   <div class="research-fig">
@@ -99,7 +106,7 @@ nav_order: 1
     <div class="research-note">Selected for the 2023 NBER Innovative Data in Household Finance, MFA 2026, and SGF 2026</div>
     <details class="abstract">
       <summary>Abstract</summary>
-      <p>We study the adoption and welfare implications of earned wage access (EWA) — an innovative financial product increasingly offered by firms as an employee benefit — using novel administrative and survey data from a Mexican FinTech provider. We document substantial uptake, with usage concentrated near the end of the pay cycle. Adoption is associated with higher retention among lower-rank workers, consistent with welfare gains for financially constrained employees. Survey evidence points to liquidity insurance and consumption smoothing as key drivers of demand. To rationalize these findings, we develop a simple framework incorporating these motives alongside present bias. The model predicts that EWA can generate meaningful welfare gains for workers, particularly those with present-biased preferences, and characterizes the conditions under which adoption is most beneficial.</p>
+      <p>We study the usage and welfare implications of earned wage access (EWA) using administrative and survey data from a Mexican FinTech provider. Adoption is significant, and usage concentrates at the end of the pay cycle. We develop a stationary buffer-stock framework, calibrated to the data, in which EWA provides liquidity insurance and consumption-timing alignment. Access is worth about 2.5\% of a paycheck per year for the average user, and an order of magnitude more for impatient, low-liquidity workers. Automatic repayment makes these gains more robust to present bias than with revolving credit. EWA usage is associated with higher employee retention, as the framework implies.</p>
     </details>
     <div class="research-links">
       <a href="https://ssrn.com/abstract=4067701" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-file-lines"></i> SSRN</a>
@@ -114,6 +121,7 @@ nav_order: 1
   <div class="research-text">
     <h3>Riding the Waves: Geographic Diversification and Bank Responses to Local Funding Shocks</h3>
     <div class="research-authors">with Wei Li and Mingmei Liu</div>
+    <div class="research-award"><i class="fa-solid fa-trophy"></i>Best Paper Award, The 8th Asia Conference on Business and Economic Studies</div>
     <div class="research-note">Selected for the 2025 EWMES and 2025 Sydney Banking and Financial Stability Conference</div>
     <details class="abstract">
       <summary>Abstract</summary>
@@ -121,7 +129,7 @@ nav_order: 1
     </details>
   </div>
   <div class="research-fig">
-    <div class="fig-placeholder">Figure coming soon</div>
+    <img src="{{ '/assets/img/papers/wmp.png' | relative_url }}" alt="Riding the Waves — key figure">
   </div>
 </div>
 
