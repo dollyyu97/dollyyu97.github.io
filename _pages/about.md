@@ -30,9 +30,3 @@ I am a PhD candidate in Financial Economics at the [Yale School of Management](h
 My research lies at the intersection of **household finance** and **financial innovation**. I study how households manage liquidity constraints and navigate novel financial products, and how financial institutions respond to funding shocks.
 
 Prior to Yale, I was a Research Associate at Harvard Business School, where I worked with Professors Boris Vallée and Jonas Heese on research in finance and accounting. I hold an M.A. in International and Development Economics from Yale and an Honours B.Sc. in Economics and Statistics from the University of Toronto.
-
-<div class="text-center mt-3">
-  <a href="{{ '/assets/pdf/Yang_Yu_cv_2026.pdf' | relative_url }}" class="btn btn-sm" target="_blank" rel="noopener noreferrer" style="border: 1px solid var(--global-theme-color); color: var(--global-theme-color);">
-    <i class="fa-solid fa-file-pdf"></i> &nbsp;Download CV
-  </a>
-</div>
