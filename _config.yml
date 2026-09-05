@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # 'blank' 是 al-folio 约定：自动用 first/middle/last name 作为站名
-first_name: Dolly 
-middle_name: (Yang)
-last_name: Yu
+first_name: Dolly
+middle_name:
+last_name: Yu (于洋)
 contact_note: # 可以留空，或者写 "Best reached by email." 
 description: >
   PhD candidate in Financial Economics at Yale School of Management.
