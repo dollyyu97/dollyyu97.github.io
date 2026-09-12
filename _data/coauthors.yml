@@ -1,6 +1,6 @@
 "vallee":
   - firstname: ["Boris", "B."]
-    url: https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1015798
+    url: https://www.insead.edu/faculty/boris-vallee
 
 "murillo":
   - firstname: ["Jose", "J."]
@@ -28,7 +28,7 @@
 
 "choi":
   - firstname: ["James", "James J.", "J.", "J. J."]
-    url: https://som.yale.edu/faculty-research/faculty-directory/james-j-choi
+    url: https://som.yale.edu/faculty-research/faculty-directory/james-choi
 
 "metrick":
   - firstname: ["Andrew", "A."]
