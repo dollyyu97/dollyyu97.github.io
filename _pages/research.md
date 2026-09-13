@@ -87,26 +87,26 @@ nav_order: 1
 
 <div class="research-item">
   <div class="research-text">
-    <h3>The Shadow Cost of the Credit Limit: Payment Choice and Household Liquidity Management<span class="jmp-badge">Job Market Paper</span></h3>
+    <h3>The Shadow Cost of Credit Utilization: Payment Choice and Liquidity Management <span class="jmp-badge">Job Market Paper</span></h3>
     <div class="research-authors">with Jose Murillo</div>
     <details class="abstract">
       <summary>Abstract</summary>
-      <p>We study the effect of a household's credit capacity on its preference for credit or cash payments, and what that choice reveals about the shadow cost of credit. By analyzing 1.5 million consumption records linked to each household's real-time credit position, we find that the same household uses more cash as its credit utilization rises, exhibiting a convex pattern. This convexity is consistent with a precautionary mechanism: the marginal value of available credit rises as capacity shrinks, leading to a convex rise in the cost of credit for all households. Households with existing balances incur additional interest costs, prompting them to choose cash more frequently at every level of utilization. Bank-initiated increases in credit limits, which expand headroom without affecting the balance, causally reduce cash usage.  Consequently, payment choice, when observed alongside the credit position at a transaction level, serves as a direct measure of the shadow cost of drawing down borrowing capacity.</p>
+      <p>We study the effect of a household's credit capacity on its preference for credit versus cash payments. Linking 1.5 million consumption records to each household's real-time credit position, we observe that as a household's credit utilization increases, it tends to use more cash, demonstrating a convex pattern. This convexity is consistent with a precautionary mechanism: the marginal value of available credit increases as capacity shrinks, resulting in a convex rise in the cost of credit for all households. Households carrying a balance incur additional interest costs and consequently use cash more frequently at every utilization level. Bank-initiated credit limit increases, which expand available credit without affecting the balance, causally decrease cash usage. Inverting the cash shares yields a monetary estimate of the cost: an additional dollar of credit incurs an average cost of 28 cents, with half of this cost attributed to the precautionary channel. Consequently, payment choice, when analyzed alongside the credit position at the transaction level, provides a direct measure of the shadow cost of drawing down borrowing capacity.</p>
     </details>
   </div>
   <div class="research-fig">
-    <img src="{{ '/assets/img/papers/shadow_cost.png' | relative_url }}" alt="The Shadow Cost of the Credit Limit — key figure">
+    <img src="{{ '/assets/img/papers/shadow_cost.png' | relative_url }}" alt="The Shadow Cost of Credit Utilization — key figure">
   </div>
 </div>
 
 <div class="research-item">
   <div class="research-text">
-    <h3>Fintech to the (Worker) Rescue: Earned Wage Access and Employee Retention</h3>
+    <h3>Fintech to the (Worker) Rescue? Earned Wage Access, Worker Welfare and Employee Retention</h3>
     <div class="research-authors">with Jose Murillo and Boris Vallée</div>
     <div class="research-note">Selected for the 2023 NBER Innovative Data in Household Finance, MFA 2026, and SGF 2026</div>
     <details class="abstract">
       <summary>Abstract</summary>
-      <p>We study the usage and welfare implications of earned wage access (EWA) using administrative and survey data from a Mexican FinTech provider. Adoption is significant, and usage concentrates at the end of the pay cycle. We develop a stationary buffer-stock framework, calibrated to the data, in which EWA provides liquidity insurance and consumption-timing alignment. Access is worth about 2.5\% of a paycheck per year for the average user, and an order of magnitude more for impatient, low-liquidity workers. Automatic repayment makes these gains more robust to present bias than with revolving credit. EWA usage is associated with higher employee retention, as the framework implies.</p>
+      <p>We study the usage and welfare implications of earned wage access (EWA) using administrative and survey data from a Mexican FinTech provider. Adoption is significant, and usage concentrates at the end of the pay cycle. We develop a stationary buffer-stock framework, calibrated to the data, in which EWA provides liquidity insurance and consumption-timing alignment. Access is worth about 2.5% of a paycheck per year for the average user, and an order of magnitude more for impatient, low-liquidity workers. Automatic repayment makes these gains more robust to present bias than with revolving credit. EWA usage is associated with higher employee retention, as the framework implies.</p>
     </details>
     <div class="research-links">
       <a href="https://ssrn.com/abstract=4067701" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-file-lines"></i> SSRN</a>
