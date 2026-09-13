@@ -4,3 +4,8 @@ html {
   --global-hover-color: #1560b7;
   --global-focus-color: #1560b7;
 }
+
+// Navbar brand (top-left name on non-home pages): bold the full name, matching the homepage title.
+.navbar-brand.title {
+  font-weight: 700;
+}

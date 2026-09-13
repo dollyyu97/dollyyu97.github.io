@@ -9,9 +9,7 @@ last_name: Yu (于洋)
 contact_note: # 可以留空，或者写 "Best reached by email." 
 description: >
   PhD candidate in Financial Economics at Yale School of Management.
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+footer_text: # 留空: footer only shows © Copyright + name
 keywords: household finance, financial innovation
 lang: en
 icon: 🏠 # 可以换成别的 emoji，或者之后放你的照片
