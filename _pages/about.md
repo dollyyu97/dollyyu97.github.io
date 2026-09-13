@@ -27,6 +27,6 @@ latest_posts:
 
 I am a PhD candidate in Financial Economics at the [Yale School of Management](https://som.yale.edu), advised by [James Choi](https://som.yale.edu/faculty-research/faculty-directory/james-choi) (chair), [Boris Vallée](https://www.insead.edu/faculty/boris-vallee), [Paul Goldsmith-Pinkham](https://paulgp.github.io/), [Andrew Metrick](https://som.yale.edu/faculty-research/faculty-directory/andrew-metrick), and [David Argente](https://som.yale.edu/faculty-research/faculty-directory/david-argente). I am on the 2026–27 job market.
 
-My research lies at the intersection of household finance and financial innovation. I study how households make credit, payment, and savings decisions, and how financial institutions and products respond to and shape those decisions.
+My research lies at the intersection of **household finance** and **financial innovation**. I study how households make credit, payment, and savings decisions, and how financial institutions and products respond to and shape those decisions.
 
 Prior to Yale, I was a Research Associate at Harvard Business School, where I worked with Professors Boris Vallée and Jonas Heese on research in finance and accounting. I hold an M.A. in International and Development Economics from Yale and an Honours B.Sc. in Economics and Statistics from the University of Toronto.
