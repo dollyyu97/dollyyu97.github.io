@@ -87,15 +87,15 @@ nav_order: 1
 
 <div class="research-item">
   <div class="research-text">
-    <h3>The Shadow Cost of Credit Utilization: Payment Choice and Liquidity Management <span class="jmp-badge">Job Market Paper</span></h3>
+    <h3>The Shadow Cost of Credit: Payment Choice and Credit Capacity <span class="jmp-badge">Job Market Paper</span></h3>
     <div class="research-authors">with Jose Murillo</div>
     <details class="abstract">
       <summary>Abstract</summary>
-      <p>We study how a household's credit capacity shapes its choice between credit and cash payments. Linking 1.5 million transactions to households' real-time credit position, we find that cash usage rises in a convex pattern with credit utilization. This convexity is consistent with a precautionary mechanism: as credit capacity shrinks, the marginal value of available credit rises, driving up the cost of credit even for households that pay their balance in full. Households that carry a balance face an additional interest cost and use cash more often at every utilization level. Bank-initiated credit limit increases causally reduce cash usage. Inverting cash shares yields a monetary estimate of this cost: drawing down an additional dollar of credit costs 28 cents on average, half from the precautionary channel. Taken together, these results show that payment choice, conditioned on transaction-level credit position, directly measures the shadow cost of borrowing capacity.</p>
+      <p>We study how a household's credit capacity shapes its choice between credit and cash payments. Linking 1.5 million transactions to households' daily credit position, we find that cash usage rises in a convex pattern with credit utilization. This convexity is consistent with available credit serving as a buffer against expenses that only credit can pay: as utilization grows, the marginal value of available credit increases, driving up the cost of credit even for households that pay their balance in full. Bank-initiated credit limit increases causally reduce cash usage. Inverting cash shares, we find that a dollar on credit carries a shadow cost of 5 cents at 20 percent utilization and 24 cents at 80 percent, close to the 25 cents of lifetime interest on a revolved dollar. Taken together, these results show that payment choice, conditioned on transaction-level credit position, directly measures the shadow cost of credit.</p>
     </details>
   </div>
   <div class="research-fig">
-    <img src="{{ '/assets/img/papers/shadow_cost.png' | relative_url }}" alt="The Shadow Cost of Credit Utilization — key figure">
+    <img src="{{ '/assets/img/papers/shadow_cost.png' | relative_url }}" alt="The Shadow Cost of Credit — key figure">
   </div>
 </div>
 
