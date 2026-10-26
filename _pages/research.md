@@ -91,7 +91,7 @@ nav_order: 1
     <div class="research-authors">with Jose Murillo</div>
     <details class="abstract">
       <summary>Abstract</summary>
-      <p>We study how a household's credit capacity shapes its choice between credit and cash payments. Linking 1.5 million transactions to households' daily credit position, we find that cash usage rises in a convex pattern with credit utilization. This convexity is consistent with available credit serving as a buffer against expenses that only credit can pay: as utilization grows, the marginal value of available credit increases, driving up the cost of credit even for households that pay their balance in full. Bank-initiated credit limit increases causally reduce cash usage. Inverting cash shares, we find that a dollar on credit carries a shadow cost of 5 cents at 20 percent utilization and 24 cents at 80 percent, close to the 25 cents of lifetime interest on a revolved dollar. Taken together, these results show that payment choice, conditioned on transaction-level credit position, directly measures the shadow cost of credit.</p>
+      <p>Linking 1.5 million delivery orders to households' daily credit position, we find that a household's cash use rises in a convex pattern with its credit utilization. This pattern reflects a motive to preserve available credit for future expenditure shocks that may go on credit. As utilization rises, the remaining credit is more likely to fall short of such a shock; therefore, each dollar of anticipated consumption paid on credit costs more, and households substitute cash for credit. Using a regression discontinuity design, we show that bank-initiated limit increases reduce cash use, most among households near their limit. We estimate that for a household that pays no interest, a dollar on credit carries a shadow cost of 5 cents at 20 percent utilization and 24 cents at 80 percent, close to the 25 cents of lifetime interest on a dollar of revolving debt.</p>
     </details>
   </div>
   <div class="research-fig">
@@ -109,7 +109,7 @@ nav_order: 1
       <p>We study the usage and welfare implications of earned wage access (EWA) using administrative and survey data from a Mexican FinTech provider. Adoption is significant, and usage concentrates at the end of the pay cycle. We develop a stationary buffer-stock framework, calibrated to the data, in which EWA provides liquidity insurance and consumption-timing alignment. Access is worth about 2.5% of a paycheck per year for the average user, and an order of magnitude more for impatient, low-liquidity workers. Automatic repayment makes these gains more robust to present bias than with revolving credit. EWA usage is associated with higher employee retention, as the framework implies.</p>
     </details>
     <div class="research-links">
-      <a href="https://ssrn.com/abstract=4067701" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-file-lines"></i> SSRN</a>
+      <a href="{{ '/assets/pdf/ewa_draft.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-file-pdf"></i> PDF</a>
     </div>
   </div>
   <div class="research-fig">
@@ -139,36 +139,5 @@ nav_order: 1
   <div class="research-text">
     <h3>The Economics of Rent-to-Own Housing</h3>
     <div class="research-authors">solo-authored</div>
-  </div>
-</div>
-
-<div class="research-item">
-  <div class="research-text">
-    <h3>Mortgage Securitization and Housing Affordability</h3>
-    <div class="research-authors">with Daojing Zhai</div>
-  </div>
-</div>
-
-<h2 class="research-section-title">Other Writing</h2>
-
-<div class="research-item">
-  <div class="research-text">
-    <h3>A Case in Point: Shared Home Equity</h3>
-    <div class="research-authors">with Boris Vallée, Daniel Green, and Sid Beaumaster</div>
-    <div class="research-note">Harvard Business School Case 221-026</div>
-    <div class="research-links">
-      <a href="https://hbsp.harvard.edu/product/221026-PDF-ENG" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-up-right-from-square"></i> HBS Publishing</a>
-    </div>
-  </div>
-</div>
-
-<div class="research-item">
-  <div class="research-text">
-    <h3>Seso Global: Building a Blockchain-enabled Property Marketplace in Nigeria</h3>
-    <div class="research-authors">with Boris Vallée</div>
-    <div class="research-note">Harvard Business School Case 220-055</div>
-    <div class="research-links">
-      <a href="https://hbsp.harvard.edu/product/220055-PDF-ENG" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-up-right-from-square"></i> HBS Publishing</a>
-    </div>
   </div>
 </div>
