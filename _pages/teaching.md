@@ -6,6 +6,12 @@ nav: true
 nav_order: 2
 ---
 
+<style>
+  article h3 { margin-top: 2.5rem; margin-bottom: 0.75rem; }
+  article ul { padding-left: 1.25rem; }
+  article ul li { margin-bottom: 0.9rem; line-height: 1.6; }
+</style>
+
 I have served as a teaching assistant for the following courses at the [Yale School of Management](https://som.yale.edu).
 
 | Course | Program | Term(s) | Instructor |
