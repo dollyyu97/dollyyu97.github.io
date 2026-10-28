@@ -127,6 +127,9 @@ nav_order: 1
       <summary>Abstract</summary>
       <p>How resilient are banks to local funding shocks? We exploit a segment of Chinese wealth management products (WMPs) funded locally but backed by national assets, allowing us to isolate banks' strategic responses to local funding pressures. Using city-level inflation to characterize investor demand shifts, we find that banks pass through approximately 60% of these shocks to WMP yields. Large, geographically diversified banks respond more actively, by raising yields and contracting issuance in shock-hit markets more sharply than smaller banks. They then hedge by expanding the issuance of lower-yield WMPs in unaffected regions. Our findings reveal that for large banks, geographic diversification is not a tool for passive insulation but a mechanism enabling active, high-frequency liability management through their internal capital markets.</p>
     </details>
+    <div class="research-links">
+      <a href="{{ '/assets/pdf/WMP_WEI_MM_Dolly.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-file-pdf"></i> PDF</a>
+    </div>
   </div>
   <div class="research-fig">
     <img src="{{ '/assets/img/papers/wmp.png' | relative_url }}" alt="Riding the Waves — key figure">
