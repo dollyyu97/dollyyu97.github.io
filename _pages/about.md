@@ -23,7 +23,7 @@ latest_posts:
 
 <style>
   .post-title { font-weight: 700; }
-  @media (min-width: 576px) { .profile { width: 25% !important; } }
+  @media (min-width: 576px) { .profile { width: 27% !important; } }
 </style>
 
 **I am on the 2026–27 academic job market.** My job market paper is [*The Shadow Cost of Credit: Payment Choice and Credit Capacity*]({{ '/research/' | relative_url }}) (with Jose Murillo). [[PDF]]({{ '/assets/pdf/JMP_Yu_Dolly.pdf' | relative_url }}){:target="_blank"}
