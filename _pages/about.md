@@ -6,7 +6,7 @@ subtitle: PhD Candidate in Financial Economics · <a href='https://som.yale.edu'
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_v2.jpg
   image_circular: false # crops the image to make it circular
 
 selected_papers: false # papers are listed on the dedicated Research page
@@ -25,8 +25,10 @@ latest_posts:
   .post-title { font-weight: 700; }
 </style>
 
-I am a PhD candidate in Financial Economics at the [Yale School of Management](https://som.yale.edu), advised by [James Choi](https://som.yale.edu/faculty-research/faculty-directory/james-choi) (chair), [Boris Vallée](https://www.insead.edu/faculty/boris-vallee), [Paul Goldsmith-Pinkham](https://paulgp.github.io/), [Andrew Metrick](https://som.yale.edu/faculty-research/faculty-directory/andrew-metrick), and [David Argente](https://som.yale.edu/faculty-research/faculty-directory/david-argente). I am on the 2026–27 job market.
+**I am on the 2026–27 academic job market.** My job market paper is [*The Shadow Cost of Credit: Payment Choice and Credit Capacity*]({{ '/research/' | relative_url }}) (with Jose Murillo). [[PDF]]({{ '/assets/pdf/JMP_Yu_Dolly.pdf' | relative_url }}){:target="_blank"}
 
-My research lies at the intersection of **household finance** and **financial innovation**. I study how households make credit, payment, and savings decisions, and how financial institutions and products respond to and shape those decisions.
+My research lies at the intersection of **household finance**, **financial innovation**, and **financial intermediation**. I study how credit and savings products shape households' financial decisions and well-being, as well as how banks and FinTech providers supply these products in response to household demand.
 
-Prior to Yale, I was a Research Associate at Harvard Business School, where I worked with Professors Boris Vallée and Jonas Heese on research in finance and accounting. I hold an M.A. in International and Development Economics from Yale and an Honours B.Sc. in Economics and Statistics from the University of Toronto.
+Prior to Yale, I was a Research Associate at Harvard Business School. I hold an M.A. in International and Development Economics from Yale and an Honours B.Sc. in Economics and Statistics from the University of Toronto.
+
+**Committee:** [James Choi](https://som.yale.edu/faculty-research/faculty-directory/james-choi) (chair), [Boris Vallée](https://www.insead.edu/faculty/boris-vallee), [Paul Goldsmith-Pinkham](https://paulgp.github.io/), [Andrew Metrick](https://som.yale.edu/faculty-research/faculty-directory/andrew-metrick), [David Argente](https://som.yale.edu/faculty-research/faculty-directory/david-argente)

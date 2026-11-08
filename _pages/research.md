@@ -83,21 +83,26 @@ nav_order: 1
   }
 </style>
 
-<h2 class="research-section-title">Working Papers</h2>
+<h2 class="research-section-title">Job Market Paper</h2>
 
 <div class="research-item">
   <div class="research-text">
-    <h3>The Shadow Cost of Credit: Payment Choice and Credit Capacity <span class="jmp-badge">Job Market Paper</span></h3>
+    <h3>The Shadow Cost of Credit: Payment Choice and Credit Capacity</h3>
     <div class="research-authors">with Jose Murillo</div>
     <details class="abstract">
       <summary>Abstract</summary>
       <p>Linking 1.5 million delivery orders to households' daily credit positions, we find that a household's cash use rises in a convex pattern with its credit utilization. We explain this pattern with a model in which households preserve available credit for unexpected expenses that require credit. As utilization rises, the remaining credit is more likely to fall short of such an expense; therefore, each dollar of routine spending paid on credit carries a higher shadow cost, and households substitute cash for credit. Using a regression discontinuity design, we show that bank-initiated limit increases reduce cash use, most among households near their limit, as the model predicts. We estimate that for a household that pays no interest, a dollar on credit carries a shadow cost of 5 cents at 20 percent utilization and 24 cents at 80 percent, close to the 25 cents of cumulative interest on a dollar of revolving debt.</p>
     </details>
+    <div class="research-links">
+      <a href="{{ '/assets/pdf/JMP_Yu_Dolly.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-file-pdf"></i> PDF</a>
+    </div>
   </div>
   <div class="research-fig">
     <img src="{{ '/assets/img/papers/shadow_cost.png' | relative_url }}" alt="The Shadow Cost of Credit — key figure">
   </div>
 </div>
+
+<h2 class="research-section-title">Working Papers</h2>
 
 <div class="research-item">
   <div class="research-text">
